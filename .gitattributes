@@ -1,1 +1,3 @@
 public/node_modules/.cache/* filter=lfs diff=lfs merge=lfs -text
+public/node_modules/.cache/default-development/8.pack filter=lfs diff=lfs merge=lfs -text
+public/node_modules/.cache/default-development/3.pack filter=lfs diff=lfs merge=lfs -text
