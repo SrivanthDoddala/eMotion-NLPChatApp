@@ -1,6 +1,4 @@
-# eMotion-NLPChatApp
-
-# Chat App
+# eMotion - NLP Chat App
 
 Welcome to the eMotion! This user-friendly messaging application not only connects users for seamless chatting but also leverages IBM Tone Detection software to analyze each message and enhance it with an emoji that reflects its most prominent emotion.
 
